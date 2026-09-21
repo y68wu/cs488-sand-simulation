@@ -1,0 +1,17 @@
+CMakeLists.txt
+CS488_Final_Project_Demo_Deck_Chris_Wu.pdf
+external
+final_demo.gif
+final_project_proposal.pdf
+milestone1_sand_fall.gif
+milestone2_spatial_grid.gif
+milestone2b_grid_debug.gif
+milestone3_ramp_obstacle_dark.gif
+milestone3_ramp_obstacle.gif
+milestone4_surface_reconstruction_blocky.gif
+milestone4_surface_reconstruction.gif
+milestone5_angle_of_repose.gif
+README.md
+screenshot.png
+src
+video.mp4

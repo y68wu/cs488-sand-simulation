@@ -1,0 +1,7 @@
+.DS_Store
+build/
+*.o
+*.gif
+*.mp4
+*.zip
+
