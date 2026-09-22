@@ -10,6 +10,8 @@ The project focuses only on sand. This keeps the scope specific and allows the i
 
 The final result is an interactive particle simulation where sand falls into the scene, slides over a ramp, accumulates near the ground, and forms a visible pile surface.
 
+This repository contains the **final project**, including its `src/main.cpp` implementation. The distinct A0–A3 course assignment source snapshots are organized in a [private CS488 archive](https://github.com/y68wu/cs488-coursework), available for individually authorized review.
+
 ## Compilation
 
 I compiled and tested the project on macOS using CMake.
